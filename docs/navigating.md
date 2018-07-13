@@ -25,7 +25,6 @@ We'll do something similar to the latter, but rather than use a `document` globa
 ```js
 import React from 'react';
 import { Button, View, Text } from 'react-native';
-import { createStackNavigator } from 'react-navigation';
 
 class HomeScreen extends React.Component {
   render() {
